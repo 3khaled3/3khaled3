@@ -35,7 +35,7 @@
 ### Other Skills
 
 - UI/UX Design
-- Firebase (Authentication, Cloud Firestore)
+- Firebase 
 - RESTful APIs
 
 ## Contact
