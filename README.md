@@ -14,10 +14,13 @@
 - 👨‍💻 I'm a it student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with dart, flutter, and firebase, or anything related to mobile application development.
 
+## Contact
 
-### Connect with Me :
+Feel free to reach out for collaboration, questions, or just to say hi!
 
-<a href="https://linkedin.com/in/khaled-tarek-675632241" target="_blank"><img src="https://img.shields.io/badge/-khaled%20tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+- **GitHub**: [Your GitHub Profile](https://github.com/3khaled3)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/khaled-tarek-67563224)
+- **Email**: dev.khaledtarek@gmail.com
 
 
 ### 🛠 &nbsp;Tech Stack
