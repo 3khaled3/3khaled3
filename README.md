@@ -14,26 +14,37 @@
 - 👨‍💻 I'm a it student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with dart, flutter, and firebase, or anything related to mobile application development.
 
-### Connect with Me :
+## Contact
 
 Feel free to reach out for collaboration, questions, or just to say hi!
 
-- **GitHub**: [3khaled3](https://github.com/3khaled3)
-- **LinkedIn**: [khaled tarek](https://linkedin.com/in/khaled-tarek-67563224)
+- **GitHub**: [Your GitHub Profile](https://github.com/3khaled3)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/khaled-tarek-67563224)
 - **Email**: dev.khaledtarek@gmail.com
 
 
-### 🛠 &nbsp;Tech Stack
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+## Skills
 
+### Programming Languages
 
+- Dart
+
+### Frameworks
+
+- Flutter
+
+### Tools
+
+- Visual Studio Code
+- Android Studio
+- Xcode
+- Git
+
+### Other Skills
+
+- UI/UX Design
+- Firebase (Authentication, Cloud Firestore)
+- RESTful APIs
 
 
 
