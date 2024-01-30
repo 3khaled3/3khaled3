@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-khaled%20tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/khaled-tarek-675632241" target="_blank"><img src="https://img.shields.io/badge/-khaled%20tarek-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
