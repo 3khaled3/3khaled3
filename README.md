@@ -17,7 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/khaled-tarek-675632241/" target="_blank"></a>
+<a href="https://www.linkedin.com/in/khaled-tarek-675632241" target="_blank"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
