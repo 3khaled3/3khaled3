@@ -43,7 +43,7 @@
 Feel free to reach out for collaboration, questions, or just to say hi!
 
 - **GitHub**: [my GitHub Profile](https://github.com/3khaled3)
-- **LinkedIn**: [my LinkedIn Profile](https://linkedin.com/in/khaled-tarek-67563224)
+- **LinkedIn**: [my LinkedIn Profile](https://www.linkedin.com/in/khaled-tarek-675632241)
 - **Email**: dev.khaledtarek@gmail.com
 - **WhatsApp**: [Chat with me](https://wa.me/+201273793869)
 <br>
