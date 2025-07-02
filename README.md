@@ -15,27 +15,6 @@
 
 ---
 
-## 🛠 Skills
-
-### Programming Languages
-- Dart
-
-### Frameworks
-- Flutter
-
-### Tools
-- Visual Studio Code
-- Android Studio
-- Xcode
-- Git
-
-### Other Skills
-- UI/UX Design
-- Firebase 
-- RESTful APIs
-
----
-
 ## 📱 Portfolio of Apps
 
 ### 🌙 Dream App
@@ -67,8 +46,29 @@
 
 ### 💬 Chat App
 - [GitHub Repo](https://github.com/3khaled3/wechat)
+---
+
+## 🛠 Skills
+
+### Programming Languages
+- Dart
+
+### Frameworks
+- Flutter
+
+### Tools
+- Visual Studio Code
+- Android Studio
+- Xcode
+- Git
+
+### Other Skills
+- UI/UX Design
+- Firebase 
+- RESTful APIs
 
 ---
+
 
 ## 📬 Contact
 
