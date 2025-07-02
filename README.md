@@ -1,88 +1,88 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+# **Khaled Tarek - Flutter Developer** 🌟  
 
-<h3 align="center">
-  Welcome to khaled tarek's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">  
 
-<!-- Typing SVG by DenverCoder1 -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Flutter+developer" alt="Typing SVG" />
-</p> 
+<h3 align="center">  
+  Welcome to Khaled Tarek's Profile!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
+</h3>  
 
-- 👨‍💻 I'm an IT student, constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to mobile application development.
+### **🚀 Passionate Flutter Developer | UI/UX Enthusiast | Firebase Expert**  
 
----
+📱 **Building seamless, beautiful, and high-performance mobile apps**  
+🎯 **IT Student | Lifelong Learner | Problem Solver**  
 
-## 📱 Portfolio of Apps
+---  
 
-### 🌙 Dream App
-- [Google Play](https://play.google.com/store/apps/details?id=com.abdulazizahmed.dream)  
-- [App Store](https://apps.apple.com/sa/app/dream-dream-interpretation/id1515745954)
+## **🔥 Featured Projects**  
 
-### 🌿 Jeras App
-- [Google Play](https://play.google.com/store/apps/details?id=com.app.jeras)  
-- [App Store](https://apps.apple.com/sa/app/jeras-غراس/id1612021922)  
-- [Website](https://www.jeras.io/)
+### **📱 Published Apps (Live on Stores)**  
 
-### 🐑 Odhoyati App
-- [Google Play](https://play.google.com/store/apps/details?id=com.odhoyati.odhoyati)
+| App | Description | Links |  
+|------|------------|------|  
+| **🌙 Dream App** | Dream interpretation & analysis | [Google Play](https://play.google.com/store/apps/details?id=com.abdulazizahmed.dream) • [App Store](https://apps.apple.com/sa/app/dream-dream-interpretation/id1515745954) |  
+| **🌿 Jeras App** | Agriculture & plant care platform | [Google Play](https://play.google.com/store/apps/details?id=com.app.jeras) • [App Store](https://apps.apple.com/sa/app/jeras-غراس/id1612021922) • [Website](https://www.jeras.io/) |  
+| **🐑 Odhoyati App** | Livestock & farming assistant | [Google Play](https://play.google.com/store/apps/details?id=com.odhoyati.odhoyati) |  
 
-### 💇‍♀️ Salon App
-- [GitHub Repo](https://github.com/3khaled3/Salon_readme)
+### **💻 Open-Source Projects (GitHub)**  
 
-### 🎓 Snap Deals App (Graduation Project)
-- [GitHub Repo](https://github.com/3khaled3/snapDealsApp_readMe)
+| Project | Description | Tech Stack |  
+|---------|------------|------------|  
+| **💇‍♀️ Salon App** | Booking & management for salons | Flutter • Firebase | [GitHub](https://github.com/3khaled3/Salon_readme) |  
+| **🎓 Snap Deals** | E-commerce platform (Graduation Project) | Flutter • REST API | [GitHub](https://github.com/3khaled3/snapDealsApp_readMe) |  
+| **📥 Social Media Downloader** | Download videos from social platforms | Flutter • Web Scraping | [GitHub](https://github.com/3khaled3/SocialMediaDownloader) |  
+| **🛒 Noble (OLX Clone)** | Marketplace for buying/selling goods | Flutter • Firebase | [GitHub](https://github.com/3khaled3/Nob_like_Olx) |  
+| **🛍️ ForYou E-Commerce** | Online shopping experience | Flutter • Payment Gateway | [GitHub](https://github.com/3khaled3/foryou_ecommerceApp) |  
+| **💬 WeChat Clone** | Real-time messaging app | Flutter • Firebase Auth | [GitHub](https://github.com/3khaled3/wechat) |  
 
-### 📥 Social Media Downloader App
-- [GitHub Repo](https://github.com/3khaled3/SocialMediaDownloader)
+---  
 
-### 🛒 Marketplace App – "Noble"
-- [GitHub Repo](https://github.com/3khaled3/Nob_like_Olx)
+## **🛠️ Technical Skills**  
 
-### 🛍️ E-commerce App – "foryou"
-- [GitHub Repo](https://github.com/3khaled3/foryou_ecommerceApp)
+### **💻 Programming & Frameworks**  
+- **Dart** (Advanced)  
+- **Flutter** (Cross-platform development)  
+- **Firebase** (Auth, Firestore, Cloud Functions)  
+- **RESTful APIs** (Integration & Optimization)  
 
-### 💬 Chat App
-- [GitHub Repo](https://github.com/3khaled3/wechat)
----
+### **🎨 UI/UX Design**  
+- **Figma** (Prototyping & Wireframing)  
+- **Material Design & Cupertino Widgets**  
+- **Responsive & Adaptive Layouts**  
 
-## 🛠 Skills
+### **🔧 Tools & Platforms**  
+- **Git & GitHub** (Version Control)  
+- **VS Code & Android Studio** (Development)  
+- **Xcode** (iOS Deployment)  
 
-### Programming Languages
-- Dart
+---  
 
-### Frameworks
-- Flutter
+## **📈 GitHub Stats**  
 
-### Tools
-- Visual Studio Code
-- Android Studio
-- Xcode
-- Git
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=3khaled3&show_icons=true&theme=radical&count_private=true" />  
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3khaled3&layout=compact&theme=radical" />  
 
-### Other Skills
-- UI/UX Design
-- Firebase 
-- RESTful APIs
+<br clear="left">  
 
----
+<a href="https://komarev.com/ghpvc/?username=3khaled3&style=for-the-badge">  
+    <img src="https://komarev.com/ghpvc/?username=3khaled3&style=for-the-badge">  
+</a>  
 
+---  
 
-## 📬 Contact
+## **📬 Let’s Connect!**  
 
-Feel free to reach out for collaboration, questions, or just to say hi!
+💡 **Open for collaborations, freelance work, and tech discussions.**  
 
-- **GitHub**: [@3khaled3](https://github.com/3khaled3)  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/khaled-tarek-675632241)  
-- **Email**: dev.khaledtarek@gmail.com  
-- **WhatsApp**: [Chat with me](https://wa.me/+201273793869)
+📩 **Email:** [dev.khaledtarek@gmail.com](mailto:dev.khaledtarek@gmail.com)  
+🔗 **LinkedIn:** [Khaled Tarek](https://www.linkedin.com/in/khaled-tarek-675632241)  
+💬 **WhatsApp:** [+201273793869](https://wa.me/+201273793869)  
+🐙 **GitHub:** [@3khaled3](https://github.com/3khaled3)  
 
----
+---  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3khaled3&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=3khaled3&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=3khaled3&style=for-the-badge">
-</a>
+### **🚀 Turning Ideas into Reality, One Flutter Widget at a Time!**  
+
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Let's+build+something+amazing+together!" alt="Typing SVG" />  
+</p>
