@@ -24,18 +24,20 @@
 | **🌿 Jeras App** | Agriculture & plant care platform | [Google Play](https://play.google.com/store/apps/details?id=com.app.jeras) • [App Store](https://apps.apple.com/sa/app/jeras-غراس/id1612021922) • [Website](https://www.jeras.io/) |  
 | **🐑 Odhoyati App** | Livestock & farming assistant | [Google Play](https://play.google.com/store/apps/details?id=com.odhoyati.odhoyati) |  
 
-### **💻 Open-Source Projects (GitHub)**  
 
-| Project | Description | Tech Stack |  
-|---------|------------|------------|  
-| **💇‍♀️ Salon App** | Booking & management for salons | Flutter • Firebase | [GitHub](https://github.com/3khaled3/Salon_readme) |  
-| **🎓 Snap Deals** | E-commerce platform (Graduation Project) | Flutter • REST API | [GitHub](https://github.com/3khaled3/snapDealsApp_readMe) |  
-| **📥 Social Media Downloader** | Download videos from social platforms | Flutter • Web Scraping | [GitHub](https://github.com/3khaled3/SocialMediaDownloader) |  
-| **🛒 Noble (OLX Clone)** | Marketplace for buying/selling goods | Flutter • Firebase | [GitHub](https://github.com/3khaled3/Nob_like_Olx) |  
-| **🛍️ ForYou E-Commerce** | Online shopping experience | Flutter • Payment Gateway | [GitHub](https://github.com/3khaled3/foryou_ecommerceApp) |  
-| **💬 WeChat Clone** | Real-time messaging app | Flutter • Firebase Auth | [GitHub](https://github.com/3khaled3/wechat) |  
+## 🔥 Open-Source Projects
 
----  
+Explore my Flutter projects on GitHub! Contributions and feedback are welcome. 
+
+| Project | Description | GitHub Link |
+|---------|------------|-------------|
+| 💇‍♀️ **Salon App** | Booking & management system for salons | [View on GitHub](https://github.com/3khaled3/Salon_readme) |
+| 🎓 **Snap Deals** | E-commerce platform (Graduation Project) |  [View on GitHub](https://github.com/3khaled3/snapDealsApp_readMe) |
+| 📥 **Social Media Downloader** | Download videos from social platforms | [View on GitHub](https://github.com/3khaled3/SocialMediaDownloader) |
+| 🛒 **Noble (OLX Clone)** | Marketplace for buying/selling goods |  [View on GitHub](https://github.com/3khaled3/Nob_like_Olx) |
+| 🛍️ **ForYou E-Commerce** | Complete shopping experience | [View on GitHub](https://github.com/3khaled3/foryou_ecommerceApp) |
+| 💬 **WeChat Clone** | Real-time messaging application | [View on GitHub](https://github.com/3khaled3/wechat) |
+
 
 ## **🛠️ Technical Skills**  
 
