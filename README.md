@@ -47,7 +47,7 @@
 - [App Store](https://apps.apple.com/sa/app/jeras-غراس/id1612021922)  
 - [Website](https://www.jeras.io/)
 
-### 🐑 أضحيتي App
+### 🐑 Odhoyati App
 - [Google Play](https://play.google.com/store/apps/details?id=com.odhoyati.odhoyati)
 
 ### 💇‍♀️ Salon App
