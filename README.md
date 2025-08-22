@@ -42,13 +42,13 @@ Explore my Flutter projects on GitHub! Contributions and feedback are welcome.
 ## **🛠️ Technical Skills**  
 
 ### **💻 Programming & Frameworks**  
-- **Dart** (Advanced)  
-- **Flutter** (Cross-platform development)  
-- **Firebase** (Auth, Firestore, Cloud Functions)  
-- **RESTful APIs** (Integration & Optimization)  
+- **Dart**   
+- **Flutter**   
+- **Firebase** 
+- **RESTful APIs**  
 
 ### **🎨 UI/UX Design**  
-- **Figma** (Prototyping & Wireframing)  
+- **Figma**   
 - **Material Design & Cupertino Widgets**  
 - **Responsive & Adaptive Layouts**  
 
