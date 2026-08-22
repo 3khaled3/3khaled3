@@ -29,14 +29,17 @@
 
 Explore my Flutter projects on GitHub! Contributions and feedback are welcome. 
 
-| Project | Description | GitHub Link |
-|---------|------------|-------------|
-| 💇‍♀️ **Salon App** | Booking & management system for salons | [View on GitHub](https://github.com/3khaled3/Salon_readme) |
-| 🎓 **Snap Deals** | E-commerce platform (Graduation Project) |  [View on GitHub](https://github.com/3khaled3/snapDealsApp_readMe) |
-| 📥 **Social Media Downloader** | Download videos from social platforms | [View on GitHub](https://github.com/3khaled3/SocialMediaDownloader) |
-| 🛒 **Noble (OLX Clone)** | Marketplace for buying/selling goods |  [View on GitHub](https://github.com/3khaled3/Nob_like_Olx) |
-| 🛍️ **ForYou E-Commerce** | Complete shopping experience | [View on GitHub](https://github.com/3khaled3/foryou_ecommerceApp) |
-| 💬 **WeChat Clone** | Real-time messaging application | [View on GitHub](https://github.com/3khaled3/wechat) |
+| Project                        | Description                                               | GitHub Link                                                         |
+| ------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| 📱 **Find My Phone**           | Phone finder app with IMEI registration and device alerts | [View on GitHub](https://github.com/3khaled3/find_my_phone_landing)         |
+| 🛒 **E-Commerce GetX**         | E-commerce application built with Flutter and GetX        | [View on GitHub](https://github.com/3khaled3/ecommerce_getx)        |
+| 📝 **Note App**                | Modern note-taking application built with Flutter         | [View on GitHub](https://github.com/3khaled3/note_app)              |
+| 💇‍♀️ **Salon App**            | Booking & management system for salons                    | [View on GitHub](https://github.com/3khaled3/Salon_readme)          |
+| 🎓 **Snap Deals**              | E-commerce platform (Graduation Project)                  | [View on GitHub](https://github.com/3khaled3/snapDealsApp_readMe)   |
+| 📥 **Social Media Downloader** | Download videos from social platforms                     | [View on GitHub](https://github.com/3khaled3/SocialMediaDownloader) |
+| 🛒 **Noble (OLX Clone)**       | Marketplace for buying/selling goods                      | [View on GitHub](https://github.com/3khaled3/Nob_like_Olx)          |
+| 🛍️ **ForYou E-Commerce**      | Complete shopping experience                              | [View on GitHub](https://github.com/3khaled3/foryou_ecommerceApp)   |
+| 💬 **WeChat Clone**            | Real-time messaging application                           | [View on GitHub](https://github.com/3khaled3/wechat)                |
 
 
 ## **🛠️ Technical Skills**  
