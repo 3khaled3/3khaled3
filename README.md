@@ -104,14 +104,15 @@ A collection of Flutter projects demonstrating experience with **REST APIs, stat
 
 ---
 
-## **📬 Let's Connect!**
+## 📬 Let's Connect!
 
 💡 **Open for collaborations, freelance opportunities, and tech discussions.**
 
-📩 **Email:** [dev.khaledtarek@gmail.com](mailto:dev.khaledtarek@gmail.com)
-🔗 **LinkedIn:** [Khaled Tarek](https://www.linkedin.com/in/khaled-tarek-675632241)
-💬 **WhatsApp:** [+201273793869](https://wa.me/+201273793869)
-🐙 **GitHub:** [@3khaled3](https://github.com/3khaled3)
+📩 **Email:** [dev.khaledtarek@gmail.com](mailto:dev.khaledtarek@gmail.com)  
+🔗 **LinkedIn:** [Khaled Tarek](https://www.linkedin.com/in/khaled-tarek-675632241)  
+💬 **WhatsApp:** [+201273793869](https://wa.me/201273793869)  
+🐙 **GitHub:** [@3khaled3](https://github.com/3khaled3)  
+📄 **CV:** [View My Resume](https://drive.google.com/file/d/1IHu54XTqBs7WVZBeTrNXS0TCLoI8RdTU/view?usp=sharing)
 
 ---
 
